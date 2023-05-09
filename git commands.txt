@@ -8,6 +8,10 @@ git add .  ----> add the changes in staging area
 
 git commit -m "message" ---> commit the changes
 
+git checkout -b branch name  ---> it is used to create a new branch
+
+git branch --all ---> to see the list of all the branches
+
 
 
 
