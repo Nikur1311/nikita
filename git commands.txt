@@ -1,0 +1,28 @@
+Git Commands
+-------------
+touch filename ---> to create a new file
+
+git status ----> to check the status in the current directory/folder
+
+git add .  ----> add the changes in staging area
+
+git commit -m "message" ---> commit the changes
+
+
+
+
+LINUX Commands-
+-------------
+
+ls----- list
+
+mkdir--- add diretory 
+
+rm dir---- remove directory
+
+
+Different types of files
+-----------------------
+
+text file- .txt
+Excel - .csv
