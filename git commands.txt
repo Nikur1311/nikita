@@ -19,6 +19,9 @@ LINUX Commands-
 -------------
 
 ls----- list
+ls -lt ----- to have look of all files/folders in a proper manner
+
+cd --- change directory
 
 mkdir--- add diretory 
 
